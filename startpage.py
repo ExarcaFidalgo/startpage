@@ -8,8 +8,8 @@ TabTitle='Inicio'                                    # The title that the tab wi
 TitleText='Consola central'                       # The title that the window will have. 
 SubText='Vive por la espada, muere por la espada.'                              # The text that is displayed in the small area below the title.
 # Note that if you want to use a Windows path for the following, you either need to escape every backslash (\\) or use a raw string (r''). Use normal slashes on Linux.
-importPath=r'content2.txt'                        # Where to find the file with the site data.
-outputPath=r"boards.html"                         # Where to place the index.html output file. If you change this you either need to change others paths in the css too or add resources as a subfolder to that directory.
+importPath=r'content.txt'                        # Where to find the file with the site data.
+outputPath=r"index.html"                         # Where to place the index.html output file. If you change this you either need to change others paths in the css too or add resources as a subfolder to that directory.
 hourOffset=0                                            # Apply permanent offset to clock. For more information look into readme.
 
 
